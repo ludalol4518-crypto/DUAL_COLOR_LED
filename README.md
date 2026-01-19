@@ -531,5 +531,10 @@ void ShowTemperature(int temp) {
 - [Dual Color LED Basics](https://www.electronics-tutorials.ws/diode/diode_8.html)
 
 ## 📜 라이선스
-
 MIT License
+
+👍프로젝트 결과 
+
+https://github.com/user-attachments/assets/b3d92297-8f39-4c1f-a9c2-7a9b86fc8af3
+
+
